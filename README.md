@@ -1,6 +1,7 @@
 Hi, I’m nusalendra.
 - I'm a Junior Web Developer. 
 - Current Programming language is PHP and Javascript.
+- I build web apps using Laravel and VueJS frameworks.
 - I am 22 years old and still passionate about learning.
 
 <!---
